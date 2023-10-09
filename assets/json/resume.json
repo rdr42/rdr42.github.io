@@ -1,61 +1,76 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Rafael",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "phone": "",
+    "url": "rdr42.github.io",
+    "summary": "Passionate software engineer with a background in computer science and industry experience in green tech and software development",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Instagram",
+        "username": "vsiolab",
+        "url": "https://instagram.com/vsiolab"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Arcadia",
+      "position": "Software Engineer III",
+      "url": "https://www.arcadia.com/",
+      "startDate": "2020",
+      "endDate": "2023",
+      "summary": "Developed new methods to collect and process utility-data to inform fundamental business decisions and improved existing codebases with readable, maintanable and scalable software development.",
       "highlights": [
-        "Relativity"
+        "Python, Ruby, JS, AWS, React/Node.js and Ruby on Rails"
+      ]
+    },
+    {
+      "name": "GCI",
+      "position": "Software Developer Intern",
+      "url": "https://www.arcadia.com/",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "Worked alongside web dev team to build custom front-end for gci.blog.com as well as wordpress plugins and widgets",
+      "highlights": [
+        "Wordpress, PHP, JS, HTML, CSS"
+      ]
+    },
+    {
+      "name": "GCI",
+      "position": "Information Technology Intern",
+      "url": "https://www.arcadia.com/",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Performed workstation patching and vunerability monitoring for several GCI clients across Alaska.",
+      "highlights": [
+        "LabTech, PHP, IT, tech-support"
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "position": "Volunteer at No Barriers 2022",
+      "organization": "https://nobarriersusa.org/",
+      "startDate": "2022",
+      "summary": "Served as a volunteer with No Barriers, contributing to their mission of breaking down barriers and fostering personal growth."
+    }
+  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Alaska Anchorage, Anchorage, Alaska",
+      "url": "https://www.uaa.alaska.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science in Computer Science",
+      "startDate": "2016",
+      "endDate": "2019",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Data Structures and Algorithms",
+        "Artificial Intelligence",
+        "Automata, Complexity & Algorithms"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [],
@@ -63,7 +78,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker"
     },
     {
