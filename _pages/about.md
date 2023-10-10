@@ -20,4 +20,4 @@ Hello there, I'm Rafael, and I'm all about the art of code and the beauty of lif
 
 Beyond the screen, I'm an explorer with a range of hobbies. I enjoy rock climbing, songwriting, movies (specially horror) and code art (generative art). Lately, I've been captivated by the world of design and biomimicry, occasionally immersing myself in those subjects.
 
-Finally, I perceive life as a marvelously intricate tapestry with endless, interconnected patterns, each bearing its unique blend of experience and perhaps a subtle algorithmic essence. Let's explore, learn, and create together, one line of code and one adventure at a time. If you'd like to connect, don't hesitate to reach out. Just click the email button, and send a message my way.
+I perceive life as a marvelously intricate tapestry with endless, interconnected patterns, each bearing its unique blend of experience and perhaps a subtle algorithmic essence. Let's explore, learn, and create together, one line of code and one adventure at a time. If you'd like to connect, don't hesitate to reach out.
